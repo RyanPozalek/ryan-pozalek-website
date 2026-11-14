@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ryanpozalek.github.io/ryan-pozalek-website/sitemap.xml
